@@ -1,0 +1,18 @@
+{
+  "appclips": {
+    "apps": [
+      "UBS9FUBNFR.com.jing.WindWhisperClip",
+      "UBS9FUBNFR.com.jing.AnotherAppClip"
+    ],
+    "details": [
+      {
+        "appID": "UBS9FUBNFR.com.jing.WindWhisperClip",
+        "paths": ["/windwhisper/*", "/wind/*"]
+      },
+      {
+        "appID": "UBS9FUBNFR.com.jing.AnotherAppClip",
+        "paths": ["/another/*", "/ano/*"]
+      }
+    ]
+  }
+}
