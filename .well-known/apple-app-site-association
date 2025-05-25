@@ -1,12 +1,12 @@
 {
   "appclips": {
     "apps": [
-      "UBS9FUBNFR.com.jing.WindWhisperClip",
+      "UBS9FUBNFR.com.jing.WindWhisper.Clip",
       "UBS9FUBNFR.com.jing.AnotherAppClip"
     ],
     "details": [
       {
-        "appID": "UBS9FUBNFR.com.jing.WindWhisperClip",
+        "appID": "UBS9FUBNFR.com.jing.WindWhisper.Clip",
         "paths": ["/windwhisper/*", "/wind/*"]
       },
       {
