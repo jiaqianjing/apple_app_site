@@ -7,7 +7,7 @@
     "details": [
       {
         "appID": "UBS9FUBNFR.com.jing.WindWhisper.Clip",
-        "paths": ["/windwhisper*", "/wind/*"]
+        "paths": ["/windwhisper*", "/wind/*", "/www.appleapp.site/windwhisper*"]
       },
       {
         "appID": "UBS9FUBNFR.com.jing.AnotherAppClip",
